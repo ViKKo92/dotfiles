@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kozmaviktor1992@gmail.com
+	name = Viktor Kozma
